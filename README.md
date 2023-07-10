@@ -1,4 +1,8 @@
-### Hi there 👋
+### 안녕하세요 😄 컴퓨터 비전에 관심이 많은 김태우입니다.
+
+## Interest : Computer vision, Pose estimation
+
+## Studying : Multi-modal
 
 <!--
 **99xtaewoo/99xtaewoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
